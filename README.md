@@ -2,7 +2,7 @@
 Project Title : "DESIGN OF FLEXIBLE GRIPPER WITH SOLIDWORKS SOFTWARE AND PROTOTYPE WITH 3D PRINTING"
 
 ## Overview
-A mechanical design project focused on developing a flexible robotic gripper for varied object sizes.
+A mechanical design project focused on developing a flexible gripper for varied object sizes.
 
 ## Tools Used
 - SolidWorks
